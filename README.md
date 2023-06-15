@@ -1,45 +1,46 @@
 # box
-饭太硬 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/tvboxqq/饭太硬/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/tvboxqq/饭太硬/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/饭太硬/api.json)
-https://raw.githubusercontent.com/bear532/box/main/tvboxqq/饭太硬/api.json
+饭太硬 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/main/tvboxqq/饭太硬/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/main/tvboxqq/饭太硬/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/main/tvboxqq/饭太硬/api.json)
+https://raw.githubusercontent.com/bear532/box/main/main/tvboxqq/饭太硬/api.json
 
-小米 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/小米/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/小米/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@小米/api.json)
-https://raw.githubusercontent.com/bear532/box/小米/api.json
+小米 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/小米/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/小米/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/小米/api.json)
+https://raw.githubusercontent.com/bear532/box/main/小米/api.json
 
-肥猫 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/肥猫/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/肥猫/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@肥猫/api.json)
-https://raw.githubusercontent.com/bear532/box/肥猫/api.json
+肥猫 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/肥猫/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/肥猫/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/肥猫/api.json)
+https://raw.githubusercontent.com/bear532/box/main/肥猫/api.json
 
-高天流云js [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/高天流云js/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/高天流云js/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@高天流云js/api.json)
-https://raw.githubusercontent.com/bear532/box/高天流云js/api.json
+高天流云js [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/高天流云js/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/高天流云js/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/高天流云js/api.json)
+https://raw.githubusercontent.com/bear532/box/main/高天流云js/api.json
 
-高天流云XYQ [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/高天流云XYQ/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/高天流云XYQ/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@高天流云XYQ/api.json)
-https://raw.githubusercontent.com/bear532/box/高天流云XYQ/api.json
+高天流云XYQ [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/高天流云XYQ/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/高天流云XYQ/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/高天流云XYQ/api.json)
+https://raw.githubusercontent.com/bear532/box/main/高天流云XYQ/api.json
 
-夜猫子 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/夜猫子/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/夜猫子/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@夜猫子/api.json)
-https://raw.githubusercontent.com/bear532/box/夜猫子/api.json
+夜猫子 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/夜猫子/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/夜猫子/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/夜猫子/api.json)
+https://raw.githubusercontent.com/bear532/box/main/夜猫子/api.json
 
-多多 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/多多/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/多多/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@多多/api.json)
-https://raw.githubusercontent.com/bear532/box/多多/api.json
+多多 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/多多/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/多多/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/多多/api.json)
+https://raw.githubusercontent.com/bear532/box/main/多多/api.json
 
-南风 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/南风/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/南风/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@南风/api.json)
-https://raw.githubusercontent.com/bear532/box/南风/api.json
+南风 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/南风/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/南风/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/南风/api.json)
+https://raw.githubusercontent.com/bear532/box/main/南风/api.json
 
-菜妮丝 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/菜妮丝/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/菜妮丝/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@菜妮丝/api.json)
-https://raw.githubusercontent.com/bear532/box/菜妮丝/api.json
+菜妮丝 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/菜妮丝/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/菜妮丝/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/菜妮丝/api.json)
+https://raw.githubusercontent.com/bear532/box/main/菜妮丝/api.json
 
-巧儿 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/巧儿/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/巧儿/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@巧儿/api.json)
-https://raw.githubusercontent.com/bear532/box/巧儿/api.json
+巧儿 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/巧儿/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/巧儿/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/巧儿/api.json)
+https://raw.githubusercontent.com/bear532/box/main/巧儿/api.json
 
-荷城茶秀 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/荷城茶秀/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/荷城茶秀/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@荷城茶秀/api.json)
-https://raw.githubusercontent.com/bear532/box/荷城茶秀/api.json
+荷城茶秀 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/荷城茶秀/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/荷城茶秀/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/荷城茶秀/api.json)
+https://raw.githubusercontent.com/bear532/box/main/荷城茶秀/api.json
 
-运输车 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/运输车/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/运输车/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@运输车/api.json)
-https://raw.githubusercontent.com/bear532/box/运输车/api.json
+运输车 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/运输车/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/运输车/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/运输车/api.json)
+https://raw.githubusercontent.com/bear532/box/main/运输车/api.json
 
-唐三 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/唐三/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/唐三/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@唐三/api.json)
-https://raw.githubusercontent.com/bear532/box/唐三/api.json
+唐三 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/唐三/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/唐三/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/唐三/api.json)
+https://raw.githubusercontent.com/bear532/box/main/唐三/api.json
 
-多仓版配置接口 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/多倉.txt) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/多倉.txt) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@多倉.txt)
-https://raw.githubusercontent.com/bear532/box/多倉.txt
+多仓版配置接口 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/多倉.txt) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/多倉.txt) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/多倉.txt)
+https://raw.githubusercontent.com/bear532/box/main/多倉.txt
+https://github.com/bear532/box/blob/main/多倉.txt
 
 
 ★关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文使用教程。
