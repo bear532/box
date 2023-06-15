@@ -1,33 +1,3 @@
-http://richman.ml/tvboxqq/饭太硬/api.json
-
-http://richman.ml/tvboxqq/小米/api.json
-
-http://richman.ml/tvboxqq/肥猫/api.json
-
-http://richman.ml/tvboxqq/高天流云js/api.json
-
-http://richman.ml/tvboxqq/高天流云XYQ/api.json
-
-http://richman.ml/tvboxqq/夜猫子/api.json
-
-http://richman.ml/tvboxqq/夜猫子少儿频道/api.json
-
-http://richman.ml/tvboxqq/多多/api.json
-
-http://richman.ml/tvboxqq/南风/api.json
-
-http://richman.ml/tvboxqq/菜妮丝/api.json
-
-http://richman.ml/tvboxqq/巧儿/api.json
-
-http://richman.ml/tvboxqq/荷城茶秀/api.json
-
-http://richman.ml/tvboxqq/运输车/api.json
-
-http://richman.ml/tvboxqq/唐三/api.json
-
-
-
 
 ★关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文使用教程。
 
