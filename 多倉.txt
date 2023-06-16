@@ -26,4 +26,5 @@
 
 { "url": "https://raw.githubusercontent.com/bear532/box/main/tvboxqq/运输车/api.json", "name": "运输车"},
 
-{ "url": "https://raw.githubusercontent.com/bear532/box/main/tvboxqq/唐三/api.json", "name": "唐三" }]}
+{ "url": "https://raw.githubusercontent.com/bear532/box/main/tvboxqq/唐三/api.json", "name": "唐三" }
+]}
