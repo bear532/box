@@ -38,8 +38,9 @@ https://raw.githubusercontent.com/bear532/box/main/tvboxqq/运输车/api.json
 唐三 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/tvboxqq/唐三/api.json) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/tvboxqq/唐三/api.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/tvboxqq/唐三/api.json)
 https://raw.githubusercontent.com/bear532/box/main/tvboxqq/唐三/api.json
 
-多仓版配置接口 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/tvboxqq/多倉.txt) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/tvboxqq/多倉.txt) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@多倉.txt)
-https://raw.githubusercontent.com/bear532/box/main/tvboxqq/多倉.txt
+多仓版配置接口 [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/box/main/多倉.txt) [# 網址點我1](https://raw.githubusercontent.com/bear532/box/main/多倉.txt) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/box@main/多倉.txt)
+https://raw.githubusercontent.com/bear532/box/main/多倉.txt
+
 
 ★关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文使用教程。
 
